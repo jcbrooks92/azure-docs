@@ -25,7 +25,7 @@ ms.author: JialinXin
 | Included messages per unit per day for Standard/Premium tier|1,000,000 |1,000,000 |
 | Additional messages per unit per day for Standard/Premium tier|Unlimited |Unlimited |
 
-To request an update to your subscription's default limits, open a support ticket.
+To request an update to your subscription's default limits, open a support ticket using the Service type "Azure Web PubSub Service", the Problem type "Configuration and Management", and the Problem subtype "I have issue creating Web PubSub resource".
 
 For more information about how connections and messages are counted in billing, see [Billing model in Azure Web PubSub Service](../articles/azure-web-pubsub/concept-billing-model.md).
 
